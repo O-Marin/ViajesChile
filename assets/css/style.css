@@ -1,0 +1,46 @@
+body {
+    color: white;
+    font-family: 'Vazirmatn', sans-serif;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+header nav img{
+    height: 30px;
+    width: 30px;
+}
+
+.f-awe-bg-color{
+    background-color: aqua;
+    
+    text-align: center;
+    color: white;
+}
+
+#quienesSomos{
+    background-color: black;
+    color: white;
+}
+
+#destacados{
+    background-color: #000000;
+}
+
+.card-body{ 
+    background-color: aqua;
+}
+
+.card-text{
+    padding: 0px;
+}
+
+#contacto{
+    background-color: #000000;
+}
+
